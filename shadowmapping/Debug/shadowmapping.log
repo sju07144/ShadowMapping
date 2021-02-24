@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\sju07\source\repos\shadowmapping\shadowmapping\main.cpp(230,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sju07\source\repos\shadowmapping\shadowmapping\main.cpp(231,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sju07\source\repos\shadowmapping\shadowmapping\main.cpp(235,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sju07\source\repos\shadowmapping\shadowmapping\main.cpp(236,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sju07\source\repos\shadowmapping\shadowmapping\main.cpp(238,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sju07\source\repos\shadowmapping\shadowmapping\main.cpp(239,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sju07\source\repos\shadowmapping\shadowmapping\main.cpp(246,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  shadowmapping.vcxproj -> C:\Users\sju07\source\repos\shadowmapping\Debug\shadowmapping.exe
